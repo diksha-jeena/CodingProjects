@@ -1,0 +1,5 @@
+x=int(input("enter the no. of days"))
+y=int(input("enter the no. of days "))
+z=int(input("enter the no. of days"))
+days=(x*y*z)/(x*y+y*z+x*z)
+print(days)
