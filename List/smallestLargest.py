@@ -1,0 +1,4 @@
+list1 = eval(input("Enter a list of numbers :"))
+largest = max(list1)
+smallest = min(list1)
+print("The largest number is :",(largest) , "and the smallest number is :",(smallest))
