@@ -9,6 +9,3 @@ elif(avg <= 59.999 and avg >= 50):
     print("Total marks =",total , "Grade = C")
 elif(avg < 50):
     print("Total marks =",total , "Grade = D")
-
-
-ooyeeeeeeeeeeeeeee bc bc 
