@@ -7,3 +7,4 @@ elif(char >= "0" and char <= "9"):
     print("You entered a digit")
 else:
     print("You entered a special character")
+
