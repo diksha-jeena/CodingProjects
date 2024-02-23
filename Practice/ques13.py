@@ -6,5 +6,3 @@ for i in range(n):
     if(secLargest < t1[i] < largest):
         secLargest = t1[i]
 print("Second largest number =",secLargest)
-
-
