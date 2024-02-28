@@ -1,3 +1,4 @@
+#checking for an armstrong number
 num = int(input("Enter any number to check if its an armstrong number or not :"))
 digit = int(input("Enter the number of digits :"))
 sum = 0
