@@ -1,3 +1,5 @@
+
+
 angle1 = angle2 = angle3 = 0
 angle1 = float(input("Enter angle 1 : "))
 angle2 = float(input("Enter angle 2 : "))
