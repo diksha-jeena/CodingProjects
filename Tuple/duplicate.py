@@ -1,3 +1,4 @@
+#checking for duplicate elements 
 t1 = eval(input("Enter a tuple :"))
 for i in t1:
     if(t1.count(i) > 1):
