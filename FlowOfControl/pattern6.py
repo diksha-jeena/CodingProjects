@@ -1,4 +1,4 @@
-
+#printing pascal's triangle
 from math import factorial
 n = 4
 for i in range(n):
