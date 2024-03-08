@@ -5,4 +5,4 @@ e=a
 a=b
 b=c
 c=e
-print(a,b,c) 
+print("After swapping : "a,b,c) 
