@@ -11,4 +11,3 @@ for i in range(0,n-1):
     else:
         pass
 print(arr)
-    
