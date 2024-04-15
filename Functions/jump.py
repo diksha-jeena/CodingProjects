@@ -1,6 +1,8 @@
 def fun():
     print("I am inside the function")
-
+    fun2()
+def fun2():
+    print("inside fun2")
 
 
 
