@@ -1,0 +1,8 @@
+myfile = open("D:\\Diksha.txt" , 'r')
+str = myfile.read(5)
+print(str)
+str = myfile.read(10)
+print(str)
+str = myfile.read()
+print("Rest of the text = " , str)
+myfile.close()
