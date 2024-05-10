@@ -1,0 +1,8 @@
+myfile = open("ABC.txt" , 'r')
+c = 0
+line = myfile . readlines()
+for i in line :
+  if(i[0] == 'A' or i[0] == 'a':
+    c += 1
+print("Total number of line start 'A' or 'a' is = " , c)
+myfile.close()
