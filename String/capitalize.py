@@ -1,3 +1,4 @@
+
 str = input("Enter any random word :")
 n = len(str)
 str2 = " "
