@@ -1,0 +1,11 @@
+data = b'This is a binary file , \n'
+with open('binary.txt' , 'wb') as file :
+    file.write(data)
+
+append_data = b'appending a new line in binary file , \n'   
+with open('binary.txt' , 'ab') as file :
+    file.write(append_data)
+
+with open('binary.txt' , 'rb') as file :
+    content = file.read()
+    print(content)
