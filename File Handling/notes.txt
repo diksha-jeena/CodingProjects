@@ -1,0 +1,12 @@
+with open('notes.txt' , 'w') as file :
+    file.write("Hey , \n")
+    file.write("This is Siddharth's wife mrs Diksha , \n")
+
+with open('notes.txt' , 'a') as file :
+    file.write("Appending a new line , \n")
+
+with open('notes.txt' , 'r') as file :
+    content = file.read()
+    print(content)
+
+
