@@ -1,3 +1,4 @@
+
 data = b'This is a binary file , \n'
 with open('binary.txt' , 'wb') as file :
     file.write(data)
