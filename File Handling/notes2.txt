@@ -1,0 +1,1 @@
+If someone says that the output is to be displayed you know which device it will be displayed on .
