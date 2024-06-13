@@ -1,0 +1,3 @@
+read() - it reads the entire file and return it in a string 
+readline() - it reads a single line at a time
+readlines() - it reads all the lines from file and returns it in a list
