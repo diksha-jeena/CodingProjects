@@ -9,4 +9,4 @@ with open("task.txt" , "r") as file:
   for i in content:
     if(i in vowels):
       vowelCount += 1
-print("Vowel count = " , vowelcount )
+print("Vowel count = " , vowelCount )
