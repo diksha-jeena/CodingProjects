@@ -1,0 +1,6 @@
+obj = open("p1.txt" , "w")
+obj.write("Better  ")
+obj.write("then")
+obj.write("heaven")
+obj.write("or arcadia")
+obj.close()
